@@ -21,8 +21,7 @@ def main(n):
     e=n%10
     
     maximum=a
-    if  maximum<a :
-        maximum=a
+ 
     if  maximum<b :
         maximum=b
     if  maximum<c :
@@ -32,7 +31,7 @@ def main(n):
     if  maximum<e :
         maximum=e
     return maximum
-print(main(12795))
+print(main(12789))
 
 
 
