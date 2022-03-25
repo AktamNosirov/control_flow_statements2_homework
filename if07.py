@@ -25,3 +25,5 @@ def main(temp):
         return "Hot"
     elif temp>40:
         return "Very Hot"  
+    
+    
