@@ -12,7 +12,7 @@ def main(a,b,c):
         return b
     elif a>c>b or b>c>a :
         return c
-    elif b>a>c or c>a>b :
+    else :
         return a 
 print(main(5,7,1))
 
