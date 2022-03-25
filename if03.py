@@ -15,3 +15,4 @@ def main(a,b,c):
     if b>a>c or c>a>b :
         return a 
 print(main(5,7,1))
+
