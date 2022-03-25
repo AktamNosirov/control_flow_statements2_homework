@@ -14,6 +14,6 @@ def main(a,b,c):
         return c
     else :
         return a 
-print(main(5,7,1))
+print(main(3,6,3))
 
 
